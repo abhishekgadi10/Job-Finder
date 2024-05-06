@@ -12,8 +12,8 @@ This is a React-based web application that serves as a candidate application pla
 - [Tech Stack Used](#tech-stack-used)
 - [Project Strcture](#project-structure)
 - [Redux Slices](#redux-slices)
-- [Material-UI Integration](#material-ui integration)
-- [Custom Logic](#custom logic)
+- [Material-UI Integration](#material-ui-integration)
+- [Custom Logic](#custom-logic)
 - [Usage](#usage)
 - [About](#about) 
 
