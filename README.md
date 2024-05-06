@@ -1,9 +1,41 @@
 
-# JobTour: Website to find Jobs
+# JobTour:- Job Finder with React
 
 This is a React-based web application that serves as a candidate application platform. It allows users to view job listings, filter jobs based on various criteria, and implements infinite scroll for a seamless browsing experience.
 
 [Demo Link](https://jobtour.netlify.app)
+
+
+## Quick Start
+
+To get started with QuickERP, follow these simple steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/abhishekgadi10/Job-Finder.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd jobportal
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
+5. **Open your browser and visit [http://localhost:3000](http://localhost:3000)**
+
 
 ## Features
 
@@ -19,14 +51,6 @@ This is a React-based web application that serves as a candidate application pla
 - **Material-UI:** A popular React UI library for implementing Material Design components.
 - **Custom CSS:** Custom CSS styles for additional styling and customization.
 - **Custom Logic:** Custom logic implementations for handling filters, infinite scroll, and other functionalities.
-
-## Installation
-
-1. Clone the repository:
-2. Navigate to the project directory:
-3. Install dependencies:
-4. Start the development server:
-5. The application should now be running at [http://localhost:3000](http://localhost:3000).
 
 ## Project Structure
 
